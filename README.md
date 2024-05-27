@@ -1,4 +1,4 @@
-[Segmentación de Clientes](C:\Users\Esteban García\OneDrive\Escritorio\Proyectos Cargados a Github\Segmentación de Clientes\Imágenes\Segmentación Clientes.jpg)
+![Segmentación Clientes](https://github.com/JavierEdgarEsteban77/Segmentaci-n-de-Clientes-usando-Machine-Learning/assets/86074229/d9e5d926-333b-4c87-9931-f7099ccaaecd))
 
 # Proyecto de Segmentación de Clientes con Data Science en R
 
