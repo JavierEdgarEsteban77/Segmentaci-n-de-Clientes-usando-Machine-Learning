@@ -1,3 +1,5 @@
+![Segmentación de Clientes](C:\Users\Esteban García\OneDrive\Escritorio\Proyectos Cargados a Github\Segmentación de Clientes\Imágenes\Segmentación Clientes.jpg)
+
 # Proyecto de Segmentación de Clientes con Data Science en R
 
 ## Descripción del Proyecto
